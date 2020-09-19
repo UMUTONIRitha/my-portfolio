@@ -8,6 +8,6 @@
 * Text Editor
 * Google chrome
 * Internet
-### License
+### License and Copyright
 *{MIT License}*
 Copyright (c) {2020} **{UMUTONI Marie Ritha}**
