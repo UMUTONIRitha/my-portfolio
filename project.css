@@ -29,3 +29,12 @@ h1{
   }
   h4{
     font-style: italic;
+  }
+  #one{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 150px;
+  }
+  h3{
+    color: brown;
+
+  }
