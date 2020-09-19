@@ -23,3 +23,9 @@ h1{
       
       margin-left: 300px;
   }
+  .first{
+    float: left;
+    margin: 30px;
+  }
+  h4{
+    font-style: italic;
