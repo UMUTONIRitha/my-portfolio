@@ -1,6 +1,4 @@
-body{
-  background-color: gainsboro;
-}
+
 img{
   height: 400px;
   width: 300px;
@@ -12,8 +10,7 @@ margin-top: 0px;
   margin-top: 100px;
 }
 .jumbotron{
-  height: 500px;
-  background-color: lightpink;
+ background-color: transparent;
 }
 h1{
   padding-bottom: 20px;
@@ -26,7 +23,7 @@ nav>ul>li>a{
   text-transform:uppercase;
   text-decoration:none;
   display:block;
-  color:blue;
+
 }
 nav>ul {
   text-align:right;
@@ -36,8 +33,7 @@ ul>li {
 }
 footer{
   text-align: center;
-  background-color: powderblue;
-  border: powderblue;
+ 
   padding: 10px;
   margin-top: 55px;
   font-family: 'Handlee', cursive;
@@ -60,10 +56,10 @@ font-size: 20px;
   font-size: 20px;
   margin-left: 35px;
   margin-top: 20px;
-  background-color: honeydew;
+ 
 }
 h4{
   font-size: 25px;
-  color: green;
+
   font-weight: 500;
 }
